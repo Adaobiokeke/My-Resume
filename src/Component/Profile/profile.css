@@ -1,0 +1,17 @@
+.full-profile{
+    display:flex;
+    justify-content:space-between
+}
+
+.profile-bar{
+    width:30%;
+    height:94vh;
+    border-right:2px solid rgb(207, 219, 207);
+   text-align:center;
+   padding-top: 40px;
+}
+.details-div{
+    width:70%;
+   padding-top: 40px;
+
+}
